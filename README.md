@@ -3,7 +3,7 @@
 REG NO: 212224220051
 
 ##  Write programs in Python Language to demonstrate the working of
-followingconstructs with possible test cases: a) do…while b) while…do c)
+following constructs with possible test cases: a) do…while b) while…do c)
 if …else d) switch e) for
 
 ## a) Aim
